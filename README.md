@@ -1,6 +1,7 @@
 # Recipe App
 
 A simple web application for learning JavaScript objects, API integration, and DOM manipulation using DummyJSON Recipe API.
+![Recipes](recipes_dummyjson_photo.png)
 
 ## Description
 
